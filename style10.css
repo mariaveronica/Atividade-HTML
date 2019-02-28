@@ -1,0 +1,35 @@
+body{
+	margin: 0;
+	padding: 0;
+
+}
+
+form {
+
+	font-size: 16px;
+	background: none;
+	max-width: 500px;
+	margin: 0 auto;
+	padding: 10px 10px 10px 10px;
+	border-color:none;
+	border-width: medium;
+	border-style: solid;
+	border-color: black;
+}
+
+input, textarea {
+width: 470px;
+padding: 7px;
+}
+
+.enviar input {
+	background: #069;
+	height: 40px;
+	width: 150px.
+	font-weight: bold;
+	border-radius: 5px;
+	border: 1px solid;
+	color: #fff;
+	cursor: pointer; 
+
+}
